@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My Name is Christoforos Vardakis
+## My Name is Christopher Vardakis
 - Undergraduate Student at **ECE NTUA**
 - Chair Person at **CS of IEEE NTUA SB**
 - ☕ 💻 ⌨️ 🐧 🎸 📝 🍺
