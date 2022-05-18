@@ -6,6 +6,6 @@
 ---
 - **Skills :** C/C++, Python, Java, Assembly, Web(HTML,CSS,JS), React Framework, SQL, Linux, Git
 - **Interests:** Computer Systems, Computer Networks,  Software Development, Machine Learning, Cybersecurity
-- **Find me on:** [LinkedIn](https://www.linkedin.com/in/christoforos-vardakis/) | [FaceBook](https://www.facebook.com/xrisbard) | [Twitter](https://twitter.com/SeekerRook) | [Instagram](https://www.instagram.com/chris__bard/) |[Discord](SeekerRook#3052)| [Mail](mailto:xrist.vardakis@gmail.com)
+- **Find me on:** [LinkedIn](https://www.linkedin.com/in/christoforos-vardakis/) | [FaceBook](https://www.facebook.com/xrisbard) | [Twitter](https://twitter.com/SeekerRook) | [Instagram](https://www.instagram.com/chris__bard/) |[Discord](https://discordapp.com/users/SeekerRook#3052)| [Mail](mailto:xrist.vardakis@gmail.com)
 
 
