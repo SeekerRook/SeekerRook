@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My Name is Christopher Vardakis
 - Undergraduate Student at **ECE NTUA**
-- Chair Person at **CS of IEEE NTUA SB**
+- Vice-Chair of **IEEE NTUA SB**
 ---
 - **Languages and Tools:**
 
