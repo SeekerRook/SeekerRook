@@ -12,10 +12,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="C++" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="python" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="java" width="30" height="30"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="java" width="30" height="30"/> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="java" width="30" height="30"/> 
-
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="java" width="30" height="30"/>  -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="java" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="java" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="C++" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="C++" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="C++" width="30" height="30"/> 
