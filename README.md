@@ -4,15 +4,15 @@
 ---
 - **Languages and Tools:**
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="java" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="C++" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="python" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="java" width="30" height="30"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="java" width="30" height="30"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="java" width="30" height="30"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="C++" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="C++" width="30" height="30"/> 
