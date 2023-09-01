@@ -20,7 +20,7 @@
 
 - **Interests:** 
 
-    💻 Computer Systems, ☁️Cloud Computing, ⌨️ Software Development, 👨‍💻 Dev-Ops, 🤖 Machine Learning, 🔓 Cybersecurity, 🐧 FOSS.
+   ⌨️ Software Development, ☁️Cloud Computing, 👨‍💻 Dev-Ops, 🤖 Machine Learning, 🔓 Cybersecurity, 🐧 FOSS.
     
     
 - **Stats:** 
