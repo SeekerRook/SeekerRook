@@ -1,7 +1,6 @@
-### Hi there 👋
-### My Name is Christopher Vardakis
+### Christopher Vardakis
 - Undergraduate Student at **ECE NTUA**
-- Vice-Chair of **IEEE NTUA SB**
+- Ex-Vice-Chair and Volunteer of **IEEE NTUA SB**
 ---
 - **Languages and Tools:**
 
@@ -21,7 +20,7 @@
 
 - **Interests:** 
 
-    💻 Computer Systems, 🌐 Computer Networks, ⌨️ Software Development, 🤖 Machine Learning, 🔓 Cybersecurity, 🐧 FOSS.
+    💻 Computer Systems, ☁️Cloud Computing, ⌨️ Software Development, 👨‍💻 Dev-Ops, 🤖 Machine Learning, 🔓 Cybersecurity, 🐧 FOSS.
     
     
 - **Stats:** 
