@@ -2,7 +2,7 @@
 - Undergraduate Student at **ECE NTUA** <a href="https://www.ece.ntua.gr/"> <img src="https://e-shop.ntua.gr/wp-content/uploads/2021/07/pp-sticker-small.png" alt="java" width="25" height="25"/> </a>
 - Ex-Vice-Chair and Volunteer of **IEEE NTUA SB**  <a href="https://ieee.ntua.gr/"> <img src="https://ieee.ntua.gr/static/media/ieee_logo_optimized.ef37efa4023e05422308.png" alt="java" width="20" height="20"/> </a>
 
-- Currently Working on my M.Eng Thesis in **Multi-Cluster Orchestration**   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="20" height="20"/>  <img src="https://karmada.io/img/karmada-icon-color.png" alt="karmada" width="20" height="20"/> 
+- Currently Working on my M.Eng Thesis οn **Multi-Cluster Orchestration**   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="20" height="20"/>  <img src="https://karmada.io/img/karmada-icon-color.png" alt="karmada" width="20" height="20"/> 
 ---
 - **Languages and Tools:**
 
