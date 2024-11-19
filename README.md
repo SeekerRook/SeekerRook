@@ -13,17 +13,17 @@
   [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/>](https://en.wikipedia.org/wiki/JavaScript)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>](https://en.wikipedia.org/wiki/HTML)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>](https://en.wikipedia.org/wiki/CSS)
-  <!--[<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>](https://en.wikipedia.org/wiki/C_(programming_language))-->
-  <!--[<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>](https://cplusplus.com/)-->
-  <!--[<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>](https://www.java.com)-->
-  <!--[<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>](https://flutter.dev/) -->
-  <!--[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>](https://react.dev/)-->
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>](https://cplusplus.com/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>](https://www.java.com)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>](https://flutter.dev/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>](https://react.dev/)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>](https://www.linux.org/)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>](https://git-scm.com/) 
 
 - **Interests:** 
 
-   ⌨️ Software Engineering, 🕸 Computer Networks, ☁️Cloud Computing, 👨‍💻 Dev-Ops, 🤖 ML, 🔓 Cybersecurity, 🐧 Linux.
+   ⌨️ Software Engineering, 🕸 Networks, ☁️Cloud, 👨‍💻 Dev-Ops, 🤖 ML, 🔓 Cybersecurity, 🐧 Linux.
     
     
 - **Stats:** 
