@@ -4,7 +4,13 @@
 
 - **Research Interests:** 
 
-   ☁️Cloud Computing, 🕸 Computer Networks, 🤖 Reinforcment Learning , 🤖 🤖 MARL, ♊ Digital Twins.
+   ☁️Cloud Computing
+
+   ♊ System Modeling & Digital Twins
+
+    🤖 Reinforcment Learning
+
+  🕸 Information Systems & Networks
     
 
 - **Technologies:**
