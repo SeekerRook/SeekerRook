@@ -1,12 +1,12 @@
 ### Christopher Vardakis
-- PhD Researcher at **School of Electrical & Computer Engineering, NTUA**
+- **PhD Researcher** at [NETMODE Lab](https://www.netmode.ntua.gr/) of [School of Electrical & Computer Engineering, NTUA](https://www.ece.ntua.gr/)
 ---
 
    ☁️Cloud Computing
 
    ♊ System Modeling & Digital Twins
 
-    🤖 Reinforcment Learning
+   🤖 Reinforcment Learning
 
   🕸 Information Systems & Networks
     
@@ -46,7 +46,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeekerRook&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeekerRook&theme=nord_dark&utcOffset=2)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeekerRook&theme=nord_dark) 
 <!--  https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg-->
+
 
