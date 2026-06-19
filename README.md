@@ -13,8 +13,7 @@
   🕸 Information Systems & Networks
     
 
-- **Technologies:**
-
+---
   [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>](https://www.python.org/)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>](https://www.docker.com/)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="30" height="30"/>](https://kubernetes.io/)
@@ -32,7 +31,6 @@
 
 ---
     
-- **Stats:** 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SeekerRook&label=Profile%20views&color=0e75b6&style=flat" alt="SeekerRook" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeekerRook" alt="SeekerRook" /></a> </p>
