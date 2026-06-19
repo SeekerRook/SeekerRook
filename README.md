@@ -2,8 +2,6 @@
 - PhD Researcher at **School of Electrical & Computer Engineering, NTUA**
 ---
 
-- **Research Interests:** 
-
    ☁️Cloud Computing
 
    ♊ System Modeling & Digital Twins
